@@ -1,14 +1,14 @@
 # Nerfies
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains dataset and material for the [CHI 2026 paper, Gesturing Toward Abstraction: Multimodal Convention Formation in Collaborative Physical Tasks](www.multimodal-convention.github.io).
 
-If you find Nerfies useful for your work please cite:
+If you find it useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{maeda2026mutimodal,
+  author    = {Kiyosu Maeda, William P McCarthy, Ching-Yi Tsai, Jeffrey Mu, Haoliang Wang, Robert Hawkins, Judith E. Fan, Parastoo Abtahi},
+  title     = {Gesturing Toward Abstraction: Multimodal Convention Formation in Collaborative Physical Tasks},
+  journal   = {CHI},
+  year      = {2026},
 }
 ```
 
